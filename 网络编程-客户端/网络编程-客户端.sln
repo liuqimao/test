@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-socket编程-tcp协议-客户端", "001-socket编程-tcp协议-客户端\001-socket编程-tcp协议-客户端.csproj", "{E25B6A47-28E9-447C-BC25-FC56344C00CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-socket编程-udp协议-客户端", "002-socket编程-udp协议-客户端\002-socket编程-udp协议-客户端.csproj", "{51F6F05B-E5B7-4C88-A32D-94848651944D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-tcpclient", "003-tcpclient\003-tcpclient.csproj", "{CCB91005-33A8-4255-9FE5-6229686207C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_004_udpclient", "_004_udpclient\_004_udpclient.csproj", "{28C3D1E8-7727-4CD7-953B-E3C42BEC0838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E25B6A47-28E9-447C-BC25-FC56344C00CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25B6A47-28E9-447C-BC25-FC56344C00CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25B6A47-28E9-447C-BC25-FC56344C00CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25B6A47-28E9-447C-BC25-FC56344C00CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F6F05B-E5B7-4C88-A32D-94848651944D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F6F05B-E5B7-4C88-A32D-94848651944D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F6F05B-E5B7-4C88-A32D-94848651944D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F6F05B-E5B7-4C88-A32D-94848651944D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB91005-33A8-4255-9FE5-6229686207C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB91005-33A8-4255-9FE5-6229686207C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB91005-33A8-4255-9FE5-6229686207C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB91005-33A8-4255-9FE5-6229686207C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C3D1E8-7727-4CD7-953B-E3C42BEC0838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C3D1E8-7727-4CD7-953B-E3C42BEC0838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C3D1E8-7727-4CD7-953B-E3C42BEC0838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C3D1E8-7727-4CD7-953B-E3C42BEC0838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B608340-B392-4738-80D6-F6116EAB4B27}
+	EndGlobalSection
+EndGlobal

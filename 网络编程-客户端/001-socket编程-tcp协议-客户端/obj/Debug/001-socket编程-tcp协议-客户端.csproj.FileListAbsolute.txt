@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\网络编程-客户端\001-socket编程-tcp协议-客户端\bin\Debug\001-socket编程-tcp协议-客户端.exe.config
+C:\Users\Administrator\source\repos\网络编程-客户端\001-socket编程-tcp协议-客户端\bin\Debug\001-socket编程-tcp协议-客户端.exe
+C:\Users\Administrator\source\repos\网络编程-客户端\001-socket编程-tcp协议-客户端\bin\Debug\001-socket编程-tcp协议-客户端.pdb
+C:\Users\Administrator\source\repos\网络编程-客户端\001-socket编程-tcp协议-客户端\obj\Debug\001-socket编程-tcp协议-客户端.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\网络编程-客户端\001-socket编程-tcp协议-客户端\obj\Debug\001-socket编程-tcp协议-客户端.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\网络编程-客户端\001-socket编程-tcp协议-客户端\obj\Debug\001-socket编程-tcp协议-客户端.exe
+C:\Users\Administrator\source\repos\网络编程-客户端\001-socket编程-tcp协议-客户端\obj\Debug\001-socket编程-tcp协议-客户端.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\004-栈和队列的应用\bin\Debug\004-栈和队列的应用.exe.config
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\004-栈和队列的应用\bin\Debug\004-栈和队列的应用.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\004-栈和队列的应用\bin\Debug\004-栈和队列的应用.pdb
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\004-栈和队列的应用\obj\Debug\004-栈和队列的应用.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\004-栈和队列的应用\obj\Debug\004-栈和队列的应用.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\004-栈和队列的应用\obj\Debug\004-栈和队列的应用.pdb
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\004-栈和队列的应用\obj\Debug\004-栈和队列的应用.csprojAssemblyReference.cache

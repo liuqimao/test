@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\005-字符串\bin\Debug\005-字符串.exe.config
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\005-字符串\bin\Debug\005-字符串.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\005-字符串\bin\Debug\005-字符串.pdb
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\005-字符串\obj\Debug\005-字符串.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\005-字符串\obj\Debug\005-字符串.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\005-字符串\obj\Debug\005-字符串.pdb

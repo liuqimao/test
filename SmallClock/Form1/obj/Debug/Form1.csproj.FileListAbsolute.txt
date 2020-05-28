@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\SmallClock\Form1\bin\Debug\Form1.exe.config
+C:\Users\Administrator\source\repos\SmallClock\Form1\bin\Debug\Form1.exe
+C:\Users\Administrator\source\repos\SmallClock\Form1\bin\Debug\Form1.pdb
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\Form1.g.cs
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\Form1_MarkupCompile.cache
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\Form1_MarkupCompile.lref
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\Form1.baml
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\Form1.g.resources
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\Form1.exe
+C:\Users\Administrator\source\repos\SmallClock\Form1\obj\Debug\Form1.pdb

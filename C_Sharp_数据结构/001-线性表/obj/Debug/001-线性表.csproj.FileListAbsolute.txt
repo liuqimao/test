@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\001-线性表\bin\Debug\001-线性表.exe.config
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\001-线性表\bin\Debug\001-线性表.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\001-线性表\bin\Debug\001-线性表.pdb
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\001-线性表\obj\Debug\001-线性表.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\001-线性表\obj\Debug\001-线性表.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\001-线性表\obj\Debug\001-线性表.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\001-线性表\obj\Debug\001-线性表.pdb

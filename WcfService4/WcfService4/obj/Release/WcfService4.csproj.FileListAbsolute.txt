@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\WcfService4\WcfService4\bin\WcfService4.dll.config
+C:\Users\Administrator\source\repos\WcfService4\WcfService4\bin\WcfService4.dll
+C:\Users\Administrator\source\repos\WcfService4\WcfService4\bin\WcfService4.pdb
+C:\Users\Administrator\source\repos\WcfService4\WcfService4\obj\Release\WcfService4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WcfService4\WcfService4\obj\Release\WcfService4.dll
+C:\Users\Administrator\source\repos\WcfService4\WcfService4\obj\Release\WcfService4.pdb

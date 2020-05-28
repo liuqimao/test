@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\003-队列\bin\Debug\003-队列.exe.config
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\003-队列\bin\Debug\003-队列.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\003-队列\bin\Debug\003-队列.pdb
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\003-队列\obj\Debug\003-队列.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\003-队列\obj\Debug\003-队列.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\003-队列\obj\Debug\003-队列.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\003-队列\obj\Debug\003-队列.pdb

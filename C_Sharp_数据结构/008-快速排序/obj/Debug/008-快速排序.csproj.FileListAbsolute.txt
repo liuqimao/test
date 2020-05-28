@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\008-快速排序\bin\Debug\008-快速排序.exe.config
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\008-快速排序\bin\Debug\008-快速排序.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\008-快速排序\bin\Debug\008-快速排序.pdb
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\008-快速排序\obj\Debug\008-快速排序.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\008-快速排序\obj\Debug\008-快速排序.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\008-快速排序\obj\Debug\008-快速排序.pdb

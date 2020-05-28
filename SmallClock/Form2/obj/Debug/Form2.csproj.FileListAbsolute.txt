@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\SmallClock\Form2\bin\Debug\Form2.exe.config
+C:\Users\Administrator\source\repos\SmallClock\Form2\bin\Debug\Form2.exe
+C:\Users\Administrator\source\repos\SmallClock\Form2\bin\Debug\Form2.pdb
+C:\Users\Administrator\source\repos\SmallClock\Form2\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\SmallClock\Form2\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\SmallClock\Form2\obj\Debug\Form2_MarkupCompile.cache
+C:\Users\Administrator\source\repos\SmallClock\Form2\obj\Debug\Form2_MarkupCompile.lref
+C:\Users\Administrator\source\repos\SmallClock\Form2\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\SmallClock\Form2\obj\Debug\Form2.g.resources
+C:\Users\Administrator\source\repos\SmallClock\Form2\obj\Debug\Form2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SmallClock\Form2\obj\Debug\Form2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SmallClock\Form2\obj\Debug\Form2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SmallClock\Form2\obj\Debug\Form2.exe
+C:\Users\Administrator\source\repos\SmallClock\Form2\obj\Debug\Form2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\007-简单选择排序\bin\Debug\007-简单选择排序.exe.config
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\007-简单选择排序\bin\Debug\007-简单选择排序.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\007-简单选择排序\bin\Debug\007-简单选择排序.pdb
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\007-简单选择排序\obj\Debug\007-简单选择排序.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\007-简单选择排序\obj\Debug\007-简单选择排序.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\007-简单选择排序\obj\Debug\007-简单选择排序.pdb

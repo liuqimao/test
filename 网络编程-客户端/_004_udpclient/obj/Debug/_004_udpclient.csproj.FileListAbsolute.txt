@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\网络编程-客户端\_004_udpclient\bin\Debug\_004_udpclient.exe.config
+C:\Users\Administrator\source\repos\网络编程-客户端\_004_udpclient\bin\Debug\_004_udpclient.exe
+C:\Users\Administrator\source\repos\网络编程-客户端\_004_udpclient\bin\Debug\_004_udpclient.pdb
+C:\Users\Administrator\source\repos\网络编程-客户端\_004_udpclient\obj\Debug\_004_udpclient.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\网络编程-客户端\_004_udpclient\obj\Debug\_004_udpclient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\网络编程-客户端\_004_udpclient\obj\Debug\_004_udpclient.exe
+C:\Users\Administrator\source\repos\网络编程-客户端\_004_udpclient\obj\Debug\_004_udpclient.pdb

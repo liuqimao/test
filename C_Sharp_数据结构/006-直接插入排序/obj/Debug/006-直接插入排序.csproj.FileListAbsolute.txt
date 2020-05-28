@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\006-直接插入排序\bin\Debug\006-直接插入排序.exe.config
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\006-直接插入排序\bin\Debug\006-直接插入排序.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\006-直接插入排序\bin\Debug\006-直接插入排序.pdb
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\006-直接插入排序\obj\Debug\006-直接插入排序.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\006-直接插入排序\obj\Debug\006-直接插入排序.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\006-直接插入排序\obj\Debug\006-直接插入排序.exe
+C:\Users\Administrator\source\repos\C_Sharp_数据结构\006-直接插入排序\obj\Debug\006-直接插入排序.pdb

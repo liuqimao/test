@@ -1,0 +1,34 @@
+﻿<Window x:Class="demo005_Clock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:demo005_Clock"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        AllowsTransparency="True"        
+        Title="MainWindow" Height="450" Width="800"
+        Background="{x:Null}" Topmost="True" MouseLeftButtonDown="Window_MouseLeftButtonDown" PreviewMouseWheel="Window_PreviewMouseWheel">
+         
+    <Window.Resources>
+        <Style TargetType="Label">
+            <Setter Property="Foreground" Value="CadetBlue"></Setter>
+            <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+        </Style>
+    </Window.Resources>
+    <Viewbox x:Name="ViewBox_Clock" RenderTransformOrigin="0.5,0.5">
+        <Viewbox.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform ScaleX="0.5" ScaleY="0.5"/>
+                <SkewTransform/>
+                <RotateTransform/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Viewbox.RenderTransform>   
+    <StackPanel>
+        <Label   x:Name="Label_ModernClock" Content="24:60:60" FontFamily="Source Code Pro" FontSize="40"/>
+        <Label   x:Name="Label_ChineseClock" Content="子初 阳气始萌" FontFamily="Bahnschrift SemiBold" FontSize="60"/>
+        <Label   x:Name="Label_Day" Content="20-05-21" FontFamily="Source Code Pro" FontSize="40"/>
+    </StackPanel>
+    </Viewbox>
+</Window>

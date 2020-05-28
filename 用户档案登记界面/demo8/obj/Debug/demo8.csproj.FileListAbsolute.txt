@@ -1,0 +1,10 @@
+D:\demo\demo8\demo8\bin\Debug\demo8.exe.config
+D:\demo\demo8\demo8\bin\Debug\demo8.exe
+D:\demo\demo8\demo8\bin\Debug\demo8.pdb
+D:\demo\demo8\demo8\obj\Debug\demo8.csprojAssemblyReference.cache
+D:\demo\demo8\demo8\obj\Debug\demo8.Form1.resources
+D:\demo\demo8\demo8\obj\Debug\demo8.Properties.Resources.resources
+D:\demo\demo8\demo8\obj\Debug\demo8.csproj.GenerateResource.cache
+D:\demo\demo8\demo8\obj\Debug\demo8.csproj.CoreCompileInputs.cache
+D:\demo\demo8\demo8\obj\Debug\demo8.exe
+D:\demo\demo8\demo8\obj\Debug\demo8.pdb
